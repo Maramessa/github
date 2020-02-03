@@ -1,4 +1,17 @@
 ## Welcome to GitHub Pages
+## Seeing Your Remotes
+
+
+git-remote - Manage set of tracked repositories  allows you to show which remotes are currently connected, but also to add new connections or remove existing ones.A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server.
+
+## What is the use of Git remote?
+A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub or on an internal server. In contrast to a local repository, a remote typically does not provide a file tree of the project's current state
+
+## Creating and modifying git remote configurationsCreating 
+The git remote command is also a convenience or 'helper' method for modifying a repo's ./.git/config file. The commands presented below let you manage connections with other repositories. The following commands will modify the repo's /.git/config file. The result of the following commands can also be achieved by directly editing the ./.git/config file with a text editor.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Maramessa/github/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
